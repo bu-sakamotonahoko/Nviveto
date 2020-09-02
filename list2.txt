@@ -1,0 +1,4 @@
+./img/git_4.jpg
+./img/git_1.jpg
+./img/git_2.jpg
+./img/git_3.jpg
