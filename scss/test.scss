@@ -1,0 +1,21 @@
+$mypx:16px;
+// Sassで画像をbase64化する
+.image {
+background-image: inline-image("hoge.png");
+}
+// 画像のサイズをリサイズしてくれる
+.width {
+width: image-width("hoge.png");
+}
+// 吐き出しcss width:320px;
+
+// sassの書き方
+div{
+	background:#000;
+	padding:$mypx;
+	p{
+		padding:$mypx;
+		background:#945612;
+		color:#fff;
+	}
+}

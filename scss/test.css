@@ -1,0 +1,10 @@
+@import url("test2.css");
+div{
+	background:#000;
+	padding:16px;
+}
+div p{
+	padding:16px;
+	background:#ccc;
+	color:#fff;
+}
